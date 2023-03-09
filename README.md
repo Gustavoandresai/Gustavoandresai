@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">Hello! My name is Gustavo, and I am a passionate developer with a love for new technologies and artificial intelligence. My specialty is Python, with a focus on creating innovative and useful web applications. I excel at integrating external libraries and implementing complex functionalities, and I am proud to have created several personal projects that offer innovative solutions.</h3>
 
-- 🌱 Clean and readable code **I am also a strong believer in the philosophy of clean and readable code. That is why I always strive to follow the best development practices and write code that is easy to understand and maintain. I enjoy working in teams and am open to new ideas and suggestions.**
+- 🌱 Clean and readable code **I also a strong believer in the philosophy of clean and readable code. That is why I always strive to follow the best development practices and write code that is easy to understand and maintain. I enjoy working in teams and am open to new ideas and suggestions.**
 
-- ⚡ Free time **In my free time, I like to keep learning and exploring new technologies. I am always looking for new ways to improve my software development skills. If you are interested in collaborating on an exciting project or learning more about my experience and skills, do not hesitate to contact me. I am excited about what the future holds for me as a developer and look forward to exploring new technologies and innovative solutions!**
+- ⚡ Free time **In my free time, I like to keep learning and exploring new technologies. I always looking for new ways to improve my software development skills. If you are interested in collaborating on an exciting project or learning more about my experience and skills, do not hesitate to contact me. I am excited about what the future holds for me as a developer and look forward to exploring new technologies and innovative solutions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
